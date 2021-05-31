@@ -7,3 +7,8 @@ Page 1: this page contains all data scrapped.
 Page 2: contains the statistics.
 Page 3: contains the plot. 
 Please click above buttons to view it.
+
+The script scrap1.py receives two parameters:
+
+1. The latest version of firefox webdriver called geckodriver (version in this project is 0.29.1), GeckoDriver is a link between Selenium tests and the Firefox browser. 
+2. The website url (https://www.nairaland.com)
